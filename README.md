@@ -40,3 +40,7 @@ y=-nx^'  sin⁡θ+ny^'  cos⁡θ+oy
 ### Bilinear interpolation (線性插值法)
 
 
+## Image Enhancement
+
+Gamma
+### Power law transformation
